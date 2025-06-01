@@ -55,6 +55,8 @@ python eliminar_texto_pdf.py
 └── (coloca aquí tus archivos PDF)
 ```
 
+## compilar en exe para WINDOWS 10/11
+pyinstaller --onefile --console --icon=pdf.ico QPDF.py
 -------------------------------------------------------------------------------------------------------------
 
 ## 🖋 Licencia
